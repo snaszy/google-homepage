@@ -1,0 +1,20 @@
+main {
+    position: relative;
+}
+.search-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.google-logo {
+    
+}
+.magnifying-glass {
+    width: 15px;
+    padding: 10px 500px 10px 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    border-radius: 20px;
+}
