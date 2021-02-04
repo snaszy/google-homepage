@@ -1,5 +1,5 @@
-.nav-bar {
-   
+.nav-header {
+    margin-top: 20px;
 }
 p {
     font-family:Arial, Helvetica, sans-serif;
@@ -7,8 +7,20 @@ p {
     display: inline;
     padding-right: 20px;
 }
+.nav-left {
+    margin-right: 35%;
+}
+.nav-right {
+    margin-left: 35%;
+}
 .hamburger-menu {
     width: 15px;
+    padding: 5px 20px 0px 0px;
+}
+.sign-in {
+    color: white;background-color: #0077ff;
+    padding:10px 20px 10px 20px;
+    border-radius: 2px;
 }
 main {
     text-align: center;
