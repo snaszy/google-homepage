@@ -43,3 +43,12 @@ main {
     border-color: gray;
     border-radius: 20px;
 }
+.nav-footer {
+    margin-top: 45%;
+    background-color: rgb(233, 233, 233);
+}
+.footer-left {
+    margin-right: 29%;
+}
+.footer-right {
+    margin-left: 30%;
