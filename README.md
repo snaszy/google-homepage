@@ -10,4 +10,5 @@ Tools:
 -Modzilla Dev tools
 
 Outcome:
+Took longer than expected since all the links and functionality don't work. Had a hard time with getting everything in the right spot. Learned a lot about flex, absolute, and relative positioning. Did not use the dev tools until near the end when I fine tuned some of the items.
 
